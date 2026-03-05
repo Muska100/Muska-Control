@@ -2,5 +2,4 @@
 muska:1:0CED1CA8:3000-1-1:active
 test:1:0CED1CA8:3000-1-1:active
 joo:1:5E6F7890:3000-1-1:active
-ahmedsengar:01099229284:BAC3C062:2026-3-6:active
-rashadd:111222:B235378D:2026-3-6:active
+ahmedsengar:01099229284:BAC3C062:2026-4-6:delete
