@@ -2,5 +2,5 @@
 muska:1:0CED1CA8:3000-1-1:active
 test:1:0CED1CA8:3000-1-1:blocked
 joo:1:5E6F7890:3000-1-1:active
-ahmedsengar:01099229284:BAC3C062:2026-4-6:delete
-zuksh:123123:E12CE780:2026-3-7:active
+ahmedsengar:01099229284:BAC3C062:2026-4-6:active
+zuksh:123123:E12CE780:2026-3-7:delete
