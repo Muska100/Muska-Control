@@ -1,5 +1,5 @@
 # username:password:serial:expiry_date:status
 muska:1:0CED1CA8:3000-1-1:active
 test:1:0CED1CA8:3000-1-1:delete
-joo:1:5E6F7890:3000-1-1:active
-ahmedsengar:01099229284:BAC3C062:2026-4-6:active
+joo:1:5E6F7890:3000-1-1:blocked
+ahmedsengar:01099229284:BAC3C062:2026-4-6:blocked
